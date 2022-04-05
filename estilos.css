@@ -1,0 +1,50 @@
+
+.cuadroPrincipal_tituloPrin{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(102, 94, 172);
+    font-size: 100px;
+    margin: 0px;
+    text-align: center;
+}
+.cuadroPrincipal_Texto{
+    color: rgb(132, 119, 190);
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+}
+.cuadroPrincipal_Button{
+    color: blue;
+    background-color: rgb(195, 152, 236);
+    font-size: 20px;
+    cursor:pointer;
+}
+.cuerpo_Prin{
+    background-image: url("imagen01.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.cuadroPrincipal{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 110px;
+}
+.Principal_button{
+    cursor: pointer;
+}
+.Principal_Cuerpo{
+    background-image:  url("imagen02.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.redesSociales{
+    border: 5px solid bisque;
+}
+.menu{
+    border: 5px solid bisque;
+}
